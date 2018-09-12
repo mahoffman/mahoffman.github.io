@@ -106,6 +106,16 @@
     
     <url>
     
+      <loc>/tags/celebrity/</loc>
+      <lastmod>2015-04-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/contention/</loc>
       <lastmod>2018-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -116,8 +126,8 @@
     
     <url>
     
-      <loc>/tags/dissent/</loc>
-      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <loc>/tags/events/</loc>
+      <lastmod>2015-04-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -136,8 +146,18 @@
     
     <url>
     
-      <loc>/tags/network/</loc>
+      <loc>/tags/meaning/</loc>
       <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/neuroscience/</loc>
+      <lastmod>2018-07-05T20:46:45+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -156,6 +176,16 @@
     
     <url>
     
+      <loc>/tags/reciprocity/</loc>
+      <lastmod>2018-07-05T20:46:45+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/sermons/</loc>
       <lastmod>2018-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -166,8 +196,48 @@
     
     <url>
     
+      <loc>/tags/social-networks/</loc>
+      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/social-psychology/</loc>
+      <lastmod>2018-07-05T20:46:45+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/social-structure/</loc>
+      <lastmod>2018-07-05T20:46:45+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/structure/</loc>
       <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/suicide/</loc>
+      <lastmod>2015-04-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

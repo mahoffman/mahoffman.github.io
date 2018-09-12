@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>American Revolution</title>
+      <title>American revolution</title>
       <link>/tags/american-revolution/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       
@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Celebrity</title>
+      <link>/tags/celebrity/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/celebrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contention</title>
       <link>/tags/contention/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
@@ -40,20 +49,29 @@
     </item>
     
     <item>
-      <title>Dissent</title>
-      <link>/tags/dissent/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <title>Events</title>
+      <link>/tags/events/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 -0400</pubDate>
       
-      <guid>/tags/dissent/</guid>
+      <guid>/tags/events/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Network</title>
-      <link>/tags/network/</link>
+      <title>Meaning</title>
+      <link>/tags/meaning/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>/tags/network/</guid>
+      <guid>/tags/meaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroscience</title>
+      <link>/tags/neuroscience/</link>
+      <pubDate>Thu, 05 Jul 2018 20:46:45 +0200</pubDate>
+      
+      <guid>/tags/neuroscience/</guid>
       <description></description>
     </item>
     
@@ -67,6 +85,15 @@
     </item>
     
     <item>
+      <title>Reciprocity</title>
+      <link>/tags/reciprocity/</link>
+      <pubDate>Thu, 05 Jul 2018 20:46:45 +0200</pubDate>
+      
+      <guid>/tags/reciprocity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sermons</title>
       <link>/tags/sermons/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
@@ -76,11 +103,47 @@
     </item>
     
     <item>
+      <title>Social networks</title>
+      <link>/tags/social-networks/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social psychology</title>
+      <link>/tags/social-psychology/</link>
+      <pubDate>Thu, 05 Jul 2018 20:46:45 +0200</pubDate>
+      
+      <guid>/tags/social-psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social structure</title>
+      <link>/tags/social-structure/</link>
+      <pubDate>Thu, 05 Jul 2018 20:46:45 +0200</pubDate>
+      
+      <guid>/tags/social-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Structure</title>
       <link>/tags/structure/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/tags/structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suicide</title>
+      <link>/tags/suicide/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/suicide/</guid>
       <description></description>
     </item>
     

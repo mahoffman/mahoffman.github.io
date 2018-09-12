@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social psychology on Mark Anthony Hoffman</title>
+    <link>/tags/social-psychology/</link>
+    <description>Recent content in Social psychology on Mark Anthony Hoffman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 05 Jul 2018 20:46:45 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/social-psychology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neural precursors of future liking and affective reciprocity</title>
+      <link>/publication/neural_precursors/</link>
+      <pubDate>Thu, 05 Jul 2018 20:46:45 +0200</pubDate>
+      
+      <guid>/publication/neural_precursors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
