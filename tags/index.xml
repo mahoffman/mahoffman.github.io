@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Bible</title>
       <link>/tags/bible/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/bible/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Contention</title>
       <link>/tags/contention/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/contention/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Dissent</title>
       <link>/tags/dissent/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/dissent/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Network</title>
       <link>/tags/network/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/network/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Sermons</title>
       <link>/tags/sermons/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/sermons/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Structure</title>
       <link>/tags/structure/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/structure/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Text analysis</title>
       <link>/tags/text-analysis/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/text-analysis/</guid>
       <description></description>
